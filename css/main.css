@@ -72,14 +72,6 @@ header h2 span {
     color: #2b2b2b;
 }
 
-/***** HERO IMAGE *****/
-
-img {
-    border: 5px 0;
-    border-color: green;
-    align: center;
-}
-
 /***** ABOUT *****/
 
 #about .full-width {
